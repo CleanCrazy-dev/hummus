@@ -1,0 +1,4 @@
+coverage
+!.solcover.js
+docs/*
+tasks/*
